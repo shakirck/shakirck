@@ -33,7 +33,6 @@ Experienced Fullstack/Backend Software Engineer with 2+ years of experience in p
 #### 💬 Ask me about
 
 - Node.js, JavaScript, and TypeScript for building scalable web applications.
-- C++ for developing high-performance desktop applications.
 - Software development practices and methodologies, including agile development, test-driven development, and continuous integration and deployment.
 
 #### 📫 How to reach me
