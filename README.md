@@ -24,12 +24,6 @@ Experienced Fullstack/Backend Software Engineer with 2+ years of experience in p
  
 
 
-#### 🌱 What I'm up to
-- I am challenging myself by participating in the  [#12in23](https://exercism.org/challenges/12in23) challenge on Exercism.
-- Learning new programming languages like Go , Elixir  and Java  to build high-performance applications.
-- Improving my skills in building software solutions that are reliable, scalable, and maintainable.
-
-
 #### 💬 Ask me about
 
 - Node.js, JavaScript, and TypeScript for building scalable web applications.
