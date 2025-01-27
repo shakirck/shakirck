@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🏢 I'm currently working at [**NeoITO**](https://www.neoito.com/) 
 
 #### 💫 About Me:
-Experienced Fullstack/Backend Software Engineer with 2+ years of experience in programming languages such as C++,  JavaScript, TypeScript, Python and Go. Skilled in cloud technologies such as AWS, Firebase, and GCP, as well as frameworks and tools including Express, React, Node.js, MongoDB, and PostgreSQL. Experienced in collaborative problem-solving and microservices architecture. Passionate about learning and exploring new technologies in Software Engineering.
+Experienced Fullstack/Backend Software Engineer with 4+ years of experience in programming languages such as C++,  JavaScript, TypeScript, Python and Go. Skilled in cloud technologies such as AWS, Firebase, and GCP, as well as frameworks and tools including Express, React, Node.js, MongoDB, and PostgreSQL. Experienced in collaborative problem-solving and microservices architecture. Passionate about learning and exploring new technologies in Software Engineering.
 
 
  
